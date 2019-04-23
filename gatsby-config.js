@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: 'CSSE2',
     description: 'Documentatie CSSE2',
-    siteUrl: 'https://github.com', // full path to blog - no ending slash
+    siteUrl: 'https://gatsby.ghost.org', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://github.com',
+        siteUrl: 'https://gatsby.ghost.org',
       },
     },
     'gatsby-plugin-emotion',
