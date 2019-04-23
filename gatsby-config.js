@@ -1,6 +1,8 @@
 const path = require('path');
 
 module.exports = {
+  pathPrefix: '/04-ssg-gdm-1718-indymeer',
+
   siteMetadata: {
     title: 'CSSE2',
     description: 'Documentatie CSSE2',
