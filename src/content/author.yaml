@@ -1,0 +1,15 @@
+- id: Indy
+  avatar: avatars/logo.jpg
+  bio: The professional publishing platform
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: On a plane
+- id: Another Author
+  avatar: avatars/logo.jpg
+  bio: This is another test author with a profile background image
+  twitter: TryGhost
+  facebook: ghost
+  website: https://ghost.org/
+  location: On a plane
+  profile_image: img/alex-knight-326705-unsplash.jpg
